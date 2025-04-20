@@ -32,7 +32,7 @@ Accurate weather forecasting plays a critical role in supporting urban planning,
 ## Contributors :
 
 - Louis Anh Tran
-- Shaoren Ong
+- Oon Shaoren 
 - Benetta Cheng
 
 ## Model Architectures:
